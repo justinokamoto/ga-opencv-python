@@ -1,0 +1,4 @@
+numpy==1.18.0
+# Use generic cupy source package instead of pre-build?
+cupy-cuda102==10.0.0
+opencv-python==4.2.0 # For testing only (e.g., check if ga-opencv-python api matches opencv-python)
